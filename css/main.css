@@ -1198,7 +1198,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #cb5554;
+  background: #a8afe2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1550,6 +1550,10 @@ pre .javascript .function {
 .post-sticky-flag {
   display: inline-block;
   transform: rotate(30deg);
+}
+.post-body a {
+  color: #428bca;
+  font-weight: bold;
 }
 .post-button {
   margin-top: 40px;
